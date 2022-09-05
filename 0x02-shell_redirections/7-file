@@ -1,2 +1,3 @@
 #!/bin/bash
-echo [[:alpha:]]*
+echo 'Best School' > \\\*\\\\\'\"Best school"\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+
