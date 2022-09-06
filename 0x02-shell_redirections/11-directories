@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -laR | find -typ d | wc -l
