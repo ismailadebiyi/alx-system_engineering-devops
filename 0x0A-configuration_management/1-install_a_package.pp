@@ -1,5 +1,5 @@
 # puppet declarative script to grab puppet-lint
-package { 'Flask':
+package { 'pip3':
   ensure   => '2.1.0',
-  provider => 'Python',
+  provider => 'Flask',
 }
